@@ -1,0 +1,4 @@
+*** Auto Load Next Post: Divi Support ***
+
+Version 1.0.0
+* Initial version.
