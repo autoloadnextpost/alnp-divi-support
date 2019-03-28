@@ -4,6 +4,8 @@ This pluigin provides theme support for Divi by Elegant Themes. Once installed a
 
 While this repository may be made public, it does not mean this plugin is free. Please consider making a valued donation (details below) to keep this plugin maintained and to help support Auto Load Next Post and myself.
 
+You can also [purchase the support plugin](https://autoloadnextpost.com/product/divi-support/) via the Auto Load Next Post website.
+
 Thank you 😄
 
 ###### Follow us
